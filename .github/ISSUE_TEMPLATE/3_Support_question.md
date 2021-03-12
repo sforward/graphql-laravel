@@ -11,7 +11,6 @@ Alternative you can also use our Slack workspace: https://join.slack.com/t/rebin
 ### Versions:
 - graphql-laravel Version: #.#.#
 - Laravel Version: #.#.# <!-- remove if not applicable -->
-- Lumen Version: #.#.# <!-- remove if not applicable -->
 - PHP Version: #.#.#
 
 ### Question:

@@ -4,6 +4,9 @@ CHANGELOG
 [Next release](https://github.com/rebing/graphql-laravel/compare/7.0.0...master)
 --------------
 
+### BREAKING CHANGE
+- Support for Lumen has been removed
+
 2021-04-03, 7.0.0
 -----------------
 ## Breaking changes
