@@ -5,6 +5,7 @@ CHANGELOG
 --------------
 ### Changed
 - Implement lazy root types [\#1091 / sforward](https://github.com/rebing/graphql-laravel/pull/1091)
+- Implement lazy fields for root types [\#1092 / sforward](https://github.com/rebing/graphql-laravel/pull/1092)
 
 2023-08-06, 9.1.0
 -----------------
